@@ -1,0 +1,27 @@
+ul.navigation {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navigation li {
+  display: relative;
+  list-style: none;
+  float: left;
+  margin-right: 10px;
+}
+
+body {
+  background-color: #eceeef;
+  font-family: Verdana, Helvetica, Arial, serif;
+  font-size: 14px;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  background-color: #FFF;
+  padding: 20px 40px;
+  margin-top: 25px;
+  border: solid 1px black;
+}
